@@ -56,17 +56,8 @@ date: 2021-10-14 18:47:35 +0900
 
 # Section 1
 
-:::{dropdown} Solution
-
-Let $f$ be a function and $P$ be a partition $x_0, \ldots, x_N$ of $[a, b]$ such that
-
-$$L(f, P, [a, b]) = U(f, P, [a, b]).$$
-
-Note that for each $n = 1, \ldots, N,$ we have
-
-$$(x_n - x_{n-1}) \inf_{x \in [x_{n-1}, x_n]} f = (x_n - x_{n-1}) \sup_{x \in [x_{n-1}, x_n]} f$$
-
-The infimum and supremum of a funtion on any domain are equal if and only if $f$ is constant on this domain.
-Therefore, $f$ is constant on each interval $[x_{n-1}, x_n],$ so it must be constant on $[a, b].$
-
-:::
+<details>
+<summary>Solution</summary>
+<br>
+Let $f$ be a function and $P$ be a partition $x_0, \ldots, x_N$ of $[a, b]$ such that...
+</details>
