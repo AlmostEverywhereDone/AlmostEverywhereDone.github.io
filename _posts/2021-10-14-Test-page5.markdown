@@ -43,12 +43,6 @@ date: 2021-10-14 18:47:35 +0900
 
 <!-- outline-start -->
 
-{{ aaaaaaaaaaa }}
-
-<!-- outline-end -->
-
-{{ bbbbbbbbbbbb }}
-
 ### Headings (centered)
 {:data-align="center"}
 
@@ -59,3 +53,5 @@ date: 2021-10-14 18:47:35 +0900
 <br>
 Let $f$ be a function and $P$ be a partition $x_0, \ldots, x_N$ of $[a, b]$ such that...
 </details>
+
+<!-- outline-end -->
