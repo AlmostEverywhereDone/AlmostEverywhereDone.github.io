@@ -41,15 +41,13 @@ date: 2021-10-14 18:47:35 +0900
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-
 <!-- outline-start -->
 
-{{ website_info_text_first }}
+{{ aaaaaaaaaaa }}
 
 <!-- outline-end -->
 
-{{ website_info_text_second }}
+{{ bbbbbbbbbbbb }}
 
 ### Headings (centered)
 {:data-align="center"}
