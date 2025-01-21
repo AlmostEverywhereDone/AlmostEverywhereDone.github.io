@@ -40,7 +40,8 @@ img: ":about.jpg"
 
 {{ website_info_text_first }}
 
-¡Hola! Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería, y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. Aquí encontrarás mi "libro solucionario", donde compilo soluciones detalladas a una selección de ejercicios propuestos en libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros temas fundamentales.
+# ¡Hola! 
+Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería, y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. Aquí encontrarás mi "libro solucionario", donde compilo soluciones detalladas a una selección de ejercicios propuestos en libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros temas fundamentales.
 
 Planeo actualizar la página de manera constante, añadiendo nuevos contenidos y mejorando mis habilidades en diseño web, que por el momento son bastante limitadas. A medida que avance en este proyecto, espero que la página evolucione y se convierta en un recurso más robusto y visualmente atractivo.
 
