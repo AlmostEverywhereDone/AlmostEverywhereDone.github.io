@@ -38,14 +38,13 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
 ¡Hola! Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería, y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. Aquí encontrarás mi "libro solucionario", donde compilo soluciones detalladas a una selección de ejercicios propuestos en libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros temas fundamentales.
 
 Planeo actualizar la página de manera constante, añadiendo nuevos contenidos y mejorando mis habilidades en diseño web, que por el momento son bastante limitadas. A medida que avance en este proyecto, espero que la página evolucione y se convierta en un recurso más robusto y visualmente atractivo.
 
-Soy consciente de que puedo cometer errores, así que si encuentras algún fallo o tienes sugerencias para mejorar el contenido o la funcionalidad del sitio, estaré enormemente agradecido si me lo haces saber. Puedes contactarme a través de mi correo: dancoronelochoa@gmail.com.
+Soy consciente de que puedo cometer errores, así que si encuentras algún fallo o tienes sugerencias para mejorar el contenido o la funcionalidad del sitio, estaré enormemente agradecido si me lo haces saber. Puedes contactarme a través de mi correo: ...
 
 Por último, si deseas apoyar mi trabajo y ayudarme a seguir desarrollando este proyecto, te dejo mi cuenta de PayPal y el código QR de Yape (exclusivo para Perú). ¡Cualquier contribución será muy apreciada!
 
