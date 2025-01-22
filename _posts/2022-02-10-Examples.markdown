@@ -47,6 +47,12 @@ This is an example page to display markdown related styles for Mr. Green Jekyll 
   $$a^2 + b^2 = c^2$$ 
 {% endraw %}
 
+$$ a + b = c $$
+
+\[ m n \]
+
+\( i^i = e^{\pi / 2} \)
+
 <!-- outline-end -->
 
 ### Headings (centered)
