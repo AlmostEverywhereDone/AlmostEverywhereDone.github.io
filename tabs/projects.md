@@ -9,7 +9,7 @@ lng_pair: id_projects
 
 # for override items in _data/lang/[language].yml
 #title: My title
-#button_name: "My button"
+button_name: "Books"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
 
