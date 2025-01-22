@@ -41,7 +41,7 @@ img: ":about.jpg"
 {{ website_info_text_first }}
 
 # ¡Hola! 
-Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería, y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. En esta página encontrarás soluciones detalladas a una selección de ejercicios de libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros.
+Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería (Lima, Perú), y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. En esta página encontrarás soluciones detalladas a una selección de ejercicios de libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros.
 
 Planeo actualizar la página de manera constante, añadiendo nuevos contenidos y mejorando mis habilidades en diseño web, que por el momento son bastante limitadas. A medida que avance en este proyecto, espero que la página evolucione y se convierta en un recurso más robusto y visualmente atractivo.
 
