@@ -84,23 +84,23 @@ post:
       count_title: Comentarios
       click_to_load: "Subir comentarios"
       consent:
-        title: Comentários (Disqus.com)
+        title: Comentarios (Disqus.com)
         text: >
-          A área de comentários é hospedada por um  aplicativo desenvolvido por terceiros. Ao mostrar este conteúdo você aceita os $terms e $privacy_policy do disqus.com.
-          <br> Caso prefira sair, abra $settings_link e clique no botão "sair", em seguida feche. Retorne para esta área e carregue os comentários novamente.
-        terms_link_text: Termos de serviço
-        privacy_link_text: Política de Privacidade
+          El área de comentarios está alojada por una aplicación desarrollada por terceros. Al mostrar este contenido, aceptas los $terms y la $privacy_policy de disqus.com.
+          <br> Si prefieres salir, abre $settings_link y haz clic en el botón 'salir', luego cierra. Regresa a esta área y carga los comentarios nuevamente.
+        terms_link_text: Terminos de servicio
+        privacy_link_text: Política de Privacidad
         settings_link_text: este link
         button:
-          load_once: Mostrar somente desta vez
-          load_and_do_not_ask_again: Mostrar sempre
+          load_once: Mostrar solo esta vez
+          load_and_do_not_ask_again: Mostrar siempre
   table_of_contents:
     heading: Conteúdo
     tooltip:
       move: Arraste para mover
       close: Fechar
   share:
-    heading: Compartilhar em
+    heading: Compartir en
     link_copied: Link copiado!
     tooltip:
       # keys need to match with _data/share.yml
@@ -117,41 +117,41 @@ post-list:
   button_name: Blog
   upside_down_tabs:
     tab:
-      all: Tudo
-      categories: Categoria
+      all: Todo
+      categories: Categoría
       tags: Marcador
-      years: Ano
-      clear: Limpar
-      close: Fechar
+      years: Año
+      clear: Limpiar
+      close: Cerrar
       tooltip:
-        clear: Limpar
-        close: Fechar
+        clear: Limpiar
+        close: Cerrar
     msg:
       property_list:
         # keys need to match with /query/post-query.json
         tags: Marcador
-        category: Categoria
-        year: Ano
+        category: Categoría
+        year: Año
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
 # for home layout
 home:
-  title: Bem vindo
+  title: Bienvenido
   button_name: Principal
-  new_posts_title: Novos artigos
-  new_posts_show_more_button: Veja mais ...
+  new_posts_title: Nuevos artículos
+  new_posts_show_more_button: Vea más ...
 
 # for archives layout
 archives:
-  title: Arquivo
-  button_name: Arquivo
-  page_header: Arquivo
+  title: Archivo
+  button_name: Archivo
+  page_header: Archivo
 
 # for about layout
 about:
-  title: Sobre
-  button_name: Sobre
+  title: Sobre mi
+  button_name: Sobre mi
   email_title: Email
 
 # for links layout
@@ -163,10 +163,10 @@ links:
 
 # for projects layout
 projects:
-  title: Projetos
-  button_name: Projetos
-  read_more_text: Leia mais
-  read_less_text: Leia menos
+  title: Proyectos
+  button_name: Proyectos
+  read_more_text: Lea más
+  read_less_text: Lea menos
 
 # for privacy-policy layout
 privacy-policy:
@@ -174,24 +174,24 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Olá
-  welcome: Bem vindo
-  sample: Amostra
+  greetings: Hola
+  welcome: Bienvenido
+  sample: Muestra
 
 # for contact form
 contact_form:
-  button_name: Formulário de Contato
-  formLoadingText: Carregando o Formulário de Contato...
+  button_name: Formulario de Contrato
+  formLoadingText: Cargando el Formulario de Contato...
 
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Configurações de cookies
+  side_nav_setting_button_tooltip: &cookie_settings Configuración de cookies
   panel_bar:
     msg: >
-      Este site utiliza cookies para melhorar sua funcionalidade.
-      Cookies serão ativados somente com sua aprovação.
-    privacy_msg: Verifique a $privacy_link.
+      Este sitio web utiliza cookies para mejorar su funcionalidad.
+      Las cookies sólo se activarán con su aprobación.
+    privacy_msg: Verifique la $privacy_link.
     buttons:
       accept: &accept_button Aceitar
       settings: Configurações
@@ -200,8 +200,8 @@ cookie_consent:
   panel_settings:
     title: *cookie_settings
     msg: >
-      Este site utiliza cookies para seu funcionamento.
-      Os cookies serão ativados mediante sua aprovação. Por favor, clique em cada item abaixo para ler sua política de privacidade.
+      Este sitio web utiliza cookies para funcionar.
+      Las cookies se activarán tras su aprobación. Por favor, haga clic en cada elemento a continuación para leer su política de privacidad.
     privacy_msg: Verifique a $privacy_link.
     buttons:
       accept: *accept_button
@@ -210,31 +210,32 @@ cookie_consent:
     always_active: Cookies sempre ativos
     consent_types:
       necessary:
-        title: Cookies necessários
+        title: Cookies necesarias
         info: >
-          Esses cookies são necessários para que o site possa funcionar e não podem ser desabilitados.
-          São habilitados quando o site altera seu layout, cor etc.
-          Estes cookies não salvam nenhuma informação pessoal.
+          Estas cookies son necesarias para que el sitio web funcione y no se pueden desactivar. 
+          Se habilitan cuando el sitio web cambia de diseño, color, etc. 
+          Estas cookies no guardan ninguna información personal.
           $gtag_info
       analytics:
-        title: Cookies de desempenho
+        title: Cookies de rendimiento
         info: $gtag_info
       preferences:
-        title: Cookies de funcionalidade
+        title: Cookies de funcionalidad
         info: $gtag_info
       advertising:
-        title: Cookies de segmentação e publicidade
+        title: Cookies de orientación y publicidad
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549?hl=pt-BR#consent-types
       ad_storage: >
-        Permite o armazenamento (como cookies) relacionado à publicidade.
+        Permite el almacenamiento (como cookies) relacionado con publicidad.
       analytics_storage: >
-        Permite o armazenamento (como cookies) relacionado a análises, por exemplo, duração da visita.
+        Permite el almacenamiento (como cookies) relacionado con análisis, por ejemplo, duración de la visita.
       functionality_storage: >
-        Permite o armazenamento compatível com as funções do site ou app, por exemplo, configurações de idioma.
+        Permite almacenamiento compatible con funciones del sitio web o de la aplicación, por ejemplo, configuración de idioma.
       personalization_storage: >
-        Permite o armazenamento relacionado à personalização, por exemplo, recomendações de vídeos.
+        Permite el almacenamiento relacionado con la personalización, por ejemplo, recomendaciones de vídeos.
       security_storage: >
-        Permite o armazenamento relacionado à segurança, por exemplo,
-        funcionalidade de autenticação, prevenção de fraudes e outras proteções de usuário.
+        Permite el almacenamiento relacionado con la seguridad, por ejemplo,
+        funcionalidad de autenticación, prevención de fraude y otras protecciones del usuario.
+
