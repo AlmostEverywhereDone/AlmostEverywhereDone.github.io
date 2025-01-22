@@ -40,15 +40,15 @@ img: ":about.jpg"
 
 {{ website_info_text_first }}
 
-# ¡Hola! 
-Bienvenidos a mi página web personal. Soy un egresado de la carrera de Matemática de la Universidad Nacional de Ingeniería, y mi pasión es resolver problemas y compartir el conocimiento adquirido a lo largo de mi formación. Aquí encontrarás mi "libro solucionario", donde compilo soluciones detalladas a una selección de ejercicios propuestos en libros sobre Álgebra Lineal, Análisis Real, Análisis Multivariable, entre otros temas fundamentales.
+# ¡Hi! 
+Welcome to my personal website. I am a graduate in Mathematics from the National University of Engineering (Lima, Perú), and my passion lies in solving problems and sharing the knowledge I've gained throughout my studies. On this site, you will find detailed solutions to a selection of exercises from books on Linear Algebra, Real Analysis, Multivariable Analysis, among others.
 
-Planeo actualizar la página de manera constante, añadiendo nuevos contenidos y mejorando mis habilidades en diseño web, que por el momento son bastante limitadas. A medida que avance en este proyecto, espero que la página evolucione y se convierta en un recurso más robusto y visualmente atractivo.
+I plan to update the page regularly, adding new content and improving my web design skills, which are currently quite limited. As I progress with this project, I hope the site will evolve into a more robust and visually appealing resource.
 
-Soy consciente de que puedo cometer errores, así que si encuentras algún fallo o tienes sugerencias para mejorar el contenido o la funcionalidad del sitio, estaré enormemente agradecido si me lo haces saber. Puedes contactarme a través de mi correo: ...
+I am aware that I may make mistakes, so if you find any errors or have suggestions to improve the content or functionality of the site, I would be immensely grateful if you let me know. You can contact me via my email: ...
 
-Por último, si deseas apoyar mi trabajo y ayudarme a seguir desarrollando este proyecto, te dejo mi cuenta de PayPal y el código QR de Yape (exclusivo para Perú). ¡Cualquier contribución será muy apreciada!
+Finally, if you wish to support my work and help me continue developing this project, I have included my PayPal account and the Yape QR code (exclusive to Peru). Any contribution will be greatly appreciated!
 
-Gracias por visitar mi página, y espero que encuentres útil el contenido que comparto aquí.
+Thank you for visiting my page, and I hope you find the content I share here useful.
 
 {{ website_info_text_second }}
