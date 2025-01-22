@@ -189,7 +189,7 @@ side_and_top_nav_buttons:
   - home:
     icon: "fa fa-home"
   - projects:
-    icon: "fa fa-cog"
+    icon: "fa fa-book"
   - post-list:
     icon: "fa fa-pencil-square-o"
   - archives:
