@@ -40,7 +40,7 @@ img: ":about.jpg"
 
 {{ website_info_text_first }}
 
-# ¡Hi! 
+# ¡Hi!
 Welcome to my personal website. I am a graduate in Mathematics from the National University of Engineering (Lima, Perú), and my passion lies in solving problems and sharing the knowledge I've gained throughout my studies. On this site, you will find detailed solutions to a selection of exercises from books on Linear Algebra, Real Analysis, Multivariable Analysis, among others.
 
 I plan to update the page regularly, adding new content and improving my web design skills, which are currently quite limited. As I progress with this project, I hope the site will evolve into a more robust and visually appealing resource.
