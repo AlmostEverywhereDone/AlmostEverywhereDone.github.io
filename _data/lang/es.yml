@@ -4,17 +4,17 @@
 # Licensed under MIT
 
 lng:
-  name: Português
+  name: Español
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: pt
+  code: es
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: BR
-  switch_title: Pt
+  country: PE
+  switch_title: Es
   offer:
     title: Idioma
-    msg_page: Veja esta página em português.
+    msg_page: Vea esta pagina en español.
     # if page translation is not available, use this.
     msg_site: Página principal
 
@@ -24,31 +24,31 @@ date:
   day: "%d"
   year: "%Y"
   # months itself also used in Archive page.
-  months: [Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
+  months: [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Set, Out, Nov, Dic]
 
 not_found:
-  header: Página não encontrada
-  line1: A página não pode ser encontrada.
-  line2: Use o menu ou use a busca.
+  header: Página no encontrada.
+  line1: La pagina no pudo ser encontrada.
+  line2: Utilice el menú o utilice el buscador.
 
-no_translation_tooltip: Não há tradução
+no_translation_tooltip: No hay traducción
 
 navigation:
-  contact_header: Contato
-  side_navigation_button: Menu lateral
-  scroll_back_to_top: Voltar ao topo
+  contact_header: Contacto
+  side_navigation_button: Menú lateral
+  scroll_back_to_top: Volver arriba
 
-color_scheme_switch_tooltip: Escolha a cor
+color_scheme_switch_tooltip: Elige el color
 
 search:
-  placeholder: Procurar
-  noResultText: Nenhum resultado encontrado.
+  placeholder: Buscador
+  noResultText: Ningún resultado encontrado.
 
 image_viewer:
-  load_error: Esta imagem não pode ser carregada.
+  load_error: Esta imagen no puede ser cargada.
 
 copyright:
-  additional_text: " Todos os direitos reservados."
+  additional_text: " Todos los derechos reservados."
 
 creative_commons:
   some_rights_reserved: Direitos parcialmente reservados.
