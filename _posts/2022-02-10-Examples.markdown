@@ -41,7 +41,11 @@ date: 2022-02-10 08:11:06 +0900
 
 <!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme. \( f(x)=x \)
+This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ 
+{% endraw %}
 
 <!-- outline-end -->
 
