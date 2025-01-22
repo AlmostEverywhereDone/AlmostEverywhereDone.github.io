@@ -62,7 +62,7 @@ post_query_paginator_post_per_page: 5
 # this allows you to list post with specific Categories, Tags, Years.
 # to enable this, you need to enable "post_query: true".
 # if you disable this feature, you don't need upside-down-tabs-slide.js file, and you can delete the file from _site folder
-post_query_tabs: true
+post_query_tabs: false
 
 # this adds hover effect to upside down tab buttons
 post_query_tabs_tabs_hover_effect: "hover-effect"
