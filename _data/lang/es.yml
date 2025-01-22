@@ -51,14 +51,14 @@ copyright:
   additional_text: " Todos los derechos reservados."
 
 creative_commons:
-  some_rights_reserved: Direitos parcialmente reservados.
+  some_rights_reserved: Derechos parcialmente reservados.
   # check _data/owner/[language].yml for license type.
-  by: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution 4.0 International.
-  by-nd: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NoDerivatives 4.0 International.
-  by-sa: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-ShareAlike 4.0 International.
-  by-nc: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial 4.0 International.
-  by-nc-nd: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
-  by-nc-sa: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+  by: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution 4.0 International.
+  by-nd: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution-NoDerivatives 4.0 International.
+  by-sa: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution-ShareAlike 4.0 International.
+  by-nc: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution-NonCommercial 4.0 International.
+  by-nc-nd: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+  by-nc-sa: A menos que se indique lo contrario, el contenido de este sitio tiene licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
 # for 404 layout
 not-found:
@@ -68,21 +68,21 @@ not-found:
 post:
   read_time:
     unit: " min"
-    text: " leitura"
+    text: " lectura"
     # c for char w for word
     word_char: w
     # char or words per minute
     per_minute: 100
   pager_buttons:
-    older_post: "← Posts mais antigos"
-    newer_post: "Posts mais recentes →"
-    first_post: Primeiro
+    older_post: "← Posts más antiguas"
+    newer_post: "Posts más recientes →"
+    first_post: Primero
     last_post: Último
   comments:
-    noscript: Por favor, habilite o JavaScript para ter acesso aos comentários.
+    noscript: Por favor, habilite JavaScript para tener acceso a los comentarios.
     disqus:
-      count_title: Comentários
-      click_to_load: "Carregar comentários"
+      count_title: Comentarios
+      click_to_load: "Subir comentarios"
       consent:
         title: Comentários (Disqus.com)
         text: >
